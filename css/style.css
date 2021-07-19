@@ -1,0 +1,91 @@
+body{
+    background: fixed url("../imagenes/images.png");
+    background-size:contain;
+}
+
+h1 {
+    color: rgb(90, 3, 3);
+    text-align: center; 
+    background-color: #fdfdfd;
+    border-color: #081c15;
+    font-family: 'Limelight', cursive;
+    text-decoration:none;
+    font-size: 35px;               
+}
+
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+img {
+    border:black 1px;
+    border-style: groove;
+    border-width: 0.1cm;
+    float: right; 
+    margin-right: 55px;
+    margin-left: 12px;
+    margin-top: 40px;            
+}
+
+.img-rounded {
+   border-radius: 30px; 
+   border-style: double;
+}
+
+.color-text {
+    color: rgb(148, 11, 18);
+}
+
+.background-color-special {
+    background-color: burlywood;
+}
+
+a{
+    text-decoration:none;
+}
+a{
+    color: rgb(17, 63, 150);
+    background-color: #fdfdfd;
+    border-color: #a4f56e;
+    font-family: 'Courgette', cursive;
+    text-decoration:none;
+    font-size: 35px;
+}
+h2{
+    color: rgb(0, 0, 0);
+    text-align: left; 
+    background-color: #fdfdfd;
+    border-color: #081c15;
+    font-family: 'Limelight', cursive;
+    text-decoration:none;
+    font-size: 35px;   
+}
+
+p{
+    background-color: #fdfdfd;
+    border-color: #062c1f;
+    font-family: 'Stint Ultra Condensed', cursive;
+    text-decoration:none;
+    font-size: 35px;
+    font-weight: 300;
+}
+button{
+    color: rgb(0, 0, 0);
+    text-align: left; 
+    background-color: #10f149;
+    border-color: #081c15;
+    font-family: 'Limelight', cursive;
+    text-decoration:none;
+    font-size: 20px;
+}
+
+label{
+    background-color: #fdfdfd;
+    border-color: #062c1f;
+    font-family: 'Stint Ultra Condensed', cursive;
+    text-decoration:none;
+    font-size: 20px;
+    font-weight: 100;
+}
